@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Quote &#8212; FAVRAN LOGISTICS</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link href="">./../../../index.html</link>
+	<description>Доставка ваших грузов по всему миру</description>
+	<lastbuilddate>Thu, 29 Apr 2021 21:23:31 +0000</lastbuilddate>
+	<language>en-US</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	<generator>https://wordpress.org/?v=5.8.4</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/08/cropped-512х512-32x32.jpg</url>
+	<title>Quote &#8212; FAVRAN LOGISTICS</title>
+	<link href="">./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Quote</title>
+		<link href="">./../../../2021/04/quote/index.html</link>
+					<comments>./../../../2021/04/quote/index.html?#respond</comments>
+		
+		<dc:creator><![CDATA[Hazel]]></dc:creator>
+		<pubdate>Thu, 29 Apr 2021 21:23:31 +0000</pubdate>
+				<category><![CDATA[Quote]]></category>
+		<guid ispermalink="false">https://preview.treethemes.com/hazel/demo1clean/?p=223</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentrss>./../../../2021/04/quote/feed/index.html</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

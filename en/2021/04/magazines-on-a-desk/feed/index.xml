@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Magazines on a desk	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link href="">./../index.html</link>
+	<description>Доставка ваших грузов по всему миру</description>
+	<lastbuilddate>Thu, 29 Apr 2021 21:09:19 +0000</lastbuilddate>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	<generator>https://wordpress.org/?v=5.8.4</generator>
+</channel>
+</rss>
